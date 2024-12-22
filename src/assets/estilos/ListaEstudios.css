@@ -1,0 +1,16 @@
+.lista-estudios {
+  padding: 20px;
+  
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+}
+
+.lista-estudios ul {
+  padding: 0;
+  text-align: center;
+}
+
+.lista-estudios li {
+  margin: 10px 0;
+  font-size: 1.2rem;
+}
